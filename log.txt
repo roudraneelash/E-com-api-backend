@@ -1,0 +1,22 @@
+
+Fri Feb 23 2024 01:55:35 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/signUp-{"name":"John doe","email":"john@email.com","password":"1234567@Doe","type":"seller"}
+Fri Feb 23 2024 01:55:39 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/signIn-{"email":"seller@ecom.com","password":"Password1"}
+Fri Feb 23 2024 01:55:42 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:20:20 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:20:21 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:20:37 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:21:06 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:21:07 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:21:09 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:23:17 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:23:19 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:23:54 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:23:55 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:25:23 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:25:25 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:27:18 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:27:19 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:27:45 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:27:46 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:27:47 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
+Fri Feb 23 2024 02:27:47 GMT+0530 (India Standard Time) + ".Log Data: " + /api/user/getAll-{}
